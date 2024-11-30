@@ -95,27 +95,27 @@ npm run serve
 
 浏览器输入http://localhost:8080 将看到一下页面
 
-![](../../../workspace/gitee/mi_springboot/images/index.png)
+![](images/index.png)
 
 登录:**用户名/密码**  admin/123456
 
-![image-20211219223115929](../../../workspace/gitee/mi_springboot/images/login.png)
+![image-20211219223115929](images/login.png)
 
 购物车
 
-![image-20211219223220837](../../../workspace/gitee/mi_springboot/images/cart.png)
+![image-20211219223220837](images/cart.png)
 
 订单确认
 
-![image-20211219223323684](../../../workspace/gitee/mi_springboot/images/order-confirm.png)
+![image-20211219223323684](images/order-confirm.png)
 
 订单结算(彩蛋！！！！   这里的结算做了特殊处理)
 
-![image-20211219223406482](../../../workspace/gitee/mi_springboot/images/pay.png)
+![image-20211219223406482](images/pay.png)
 
 订单列表
 
-![image-20211219223507791](../../../workspace/gitee/mi_springboot/images/order.png)
+![image-20211219223507791](images/order.png)
 
 
 
